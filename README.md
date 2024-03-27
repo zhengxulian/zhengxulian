@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 <h1 align="center">
-  <a href="https://sunguoqi.com/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);今日风和日丽，宜摸鱼!&center=true&size=27">
-  </a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Honk&size=40&pause=1000&color=0A0702&center=true&vCenter=true&random=true&width=700&height=100&lines=print(%22Hello%2C+World!!%22);System.out.println(%22Hello%2C+World!!%22);console.log(%22Hello%2C+World!!%22)" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ma+Shan+Zheng&size=40&pause=1000&color=74A0FF&center=true&vCenter=true&random=true&width=700&height=100&lines=%E4%BB%8A%E6%97%A5%E9%A3%8E%E5%92%8C%E6%97%A5%E4%B8%BD%EF%BC%8C%E5%AE%9C%E6%91%B8%E9%B1%BC%EF%BC%81%EF%BC%81" alt="Typing SVG" /></a>  
 </h1>
+
 <!--
 **zhengxulian/zhengxulian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
